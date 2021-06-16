@@ -1,3 +1,5 @@
+# Thank you all in great time for having fun with this bot
+
 Have fun trying to run this/work on it/fix it/debug it/build off of it
 
 This is the Great Games thing, go though each file and look at the comments that look like this
